@@ -1,10 +1,10 @@
-#### LatestBoot
+## LatestBoot
 
 PowerCLI to display uptime information from vCenter for list of vm's.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
-[<img src="Preview.png">](https://brassey.io/)
+[<p align="center"><img src="Preview.png">](https://brassey.io)
 
 #### Questions
 Contact me at [matt@brassey.io](mailto:matt@brassey.io) with any questions or comments.
